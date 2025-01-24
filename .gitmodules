@@ -4,3 +4,6 @@
 [submodule "makemore"]
 	path = makemore
 	url = https://github.com/karpathy/makemore.git
+[submodule "micrograd"]
+	path = micrograd
+	url = https://github.com/karpathy/micrograd.git
