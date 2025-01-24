@@ -7,3 +7,6 @@
 [submodule "micrograd"]
 	path = micrograd
 	url = https://github.com/karpathy/micrograd.git
+[submodule "Karpathy-Neural-Networks-Zero-to-Hero"]
+	path = Karpathy-Neural-Networks-Zero-to-Hero
+	url = https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero.git
