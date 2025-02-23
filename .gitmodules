@@ -10,3 +10,6 @@
 [submodule "Karpathy-Neural-Networks-Zero-to-Hero"]
 	path = Karpathy-Neural-Networks-Zero-to-Hero
 	url = https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero.git
+[submodule "ng-video-lecture"]
+	path = ng-video-lecture
+	url = https://github.com/karpathy/ng-video-lecture.git
