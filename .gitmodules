@@ -13,3 +13,6 @@
 [submodule "ng-video-lecture"]
 	path = ng-video-lecture
 	url = https://github.com/karpathy/ng-video-lecture.git
+[submodule "nanoGPT"]
+	path = nanoGPT
+	url = https://github.com/karpathy/nanoGPT
